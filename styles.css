@@ -1,0 +1,61 @@
+.postcard {
+    width: 600px;
+    font-family: 'Comic Sans MS';
+    font-size: 20px;
+   
+}
+.leftdiv{
+    width: 50%;
+
+}
+
+.rightdiv{
+    width: 50%;
+}
+
+.headerh1{
+    float: left;
+}
+
+.img {
+   float: right;
+    text-align: right;
+   
+    }
+img {
+    height: 80px;
+    width: 80px;
+}
+
+.middle{
+    float: left;
+}
+.textos{
+    float: left;
+}
+
+.inputs{
+    
+    float: right;
+    text-align: right;
+}
+input{
+
+    border: none;
+    border-bottom: 1px solid #ccc;
+    font-family: 'Comic Sans MS';
+    font-size: 18px;
+      
+}
+.boton{
+    text-align: center;
+    
+}
+button{
+    background-color: silver;
+    border: 0cap;
+    font-family: 'Comic Sans MS';
+    font-size: 16px;
+    text-align: center;
+    height: 40px;
+}
